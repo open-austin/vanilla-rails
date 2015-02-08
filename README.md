@@ -1,7 +1,3 @@
-# Teacher Talent
+# Vanilla Rails Starter App
 
-`bundle install`
-
-`bin/rake db:migrate`
-
-`rails s`
+This is a Rails app with Bootstrap and Devise preinstalled for standardized responsive styling & basic user authentication.
